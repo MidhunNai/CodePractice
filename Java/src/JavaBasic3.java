@@ -10,5 +10,6 @@ public class JavaBasic3 {
         int b = s.nextInt();
         int sum = a + b;
         System.out.println("Sum of two integer is "+ sum);
+        s.close();
     }
 }
