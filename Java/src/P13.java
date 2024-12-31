@@ -34,5 +34,6 @@ public class P13 {
             index++;
         }
         System.err.println("Sum of Fibonacci at first " + n + " even index: " + sum);
+        scanner.close();
     }
 }
