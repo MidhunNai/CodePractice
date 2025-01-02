@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "P20",
+            "request": "launch",
+            "mainClass": "P20",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P19",
+            "request": "launch",
+            "mainClass": "P19",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P18",
+            "request": "launch",
+            "mainClass": "P18",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P17",
+            "request": "launch",
+            "mainClass": "P17",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
             "name": "P16",
             "request": "launch",
             "mainClass": "P16",
