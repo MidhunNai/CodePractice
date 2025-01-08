@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p10",
+            "request": "launch",
+            "mainClass": "StringProblems.p10",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P9",
+            "request": "launch",
+            "mainClass": "StringProblems.P9",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P8",
+            "request": "launch",
+            "mainClass": "StringProblems.P8",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P7",
+            "request": "launch",
+            "mainClass": "StringProblems.P7",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P6",
+            "request": "launch",
+            "mainClass": "StringProblems.P6",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "P5",
+            "request": "launch",
+            "mainClass": "StringProblems.P5",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
             "name": "P4",
             "request": "launch",
             "mainClass": "StringProblems.P4",
