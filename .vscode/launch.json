@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "p13",
+            "request": "launch",
+            "mainClass": "StringProblems.p13",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "p12",
+            "request": "launch",
+            "mainClass": "StringProblems.p12",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
+            "name": "p11",
+            "request": "launch",
+            "mainClass": "StringProblems.p11",
+            "projectName": "CodePractice_a1e424b2"
+        },
+        {
+            "type": "java",
             "name": "p10",
             "request": "launch",
             "mainClass": "StringProblems.p10",
