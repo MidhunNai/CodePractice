@@ -65,7 +65,7 @@ elif(num2 > num3):
 else:
     greatest = num3
 print(greatest)
-#Question 3 -> WAP to check if a entered number is multiple of 7 or not
+#Question 3 -> WAP to check if a enteredde number is multiple of 7 or not
 num4 = int(input("Enter number: "))
 if(num4 % 7 == 0):
     print("Given number is multiple of 7")
