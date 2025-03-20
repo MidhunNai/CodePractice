@@ -209,7 +209,7 @@ DDDD
 # list2 = [5, 6, 7, 8, 9, 0]
 # common_elements = list(set(list1).intersection(set(list2)))
 # print(common_elements)
-
+2
 # 22. Write a program that counts the number of vowels in a given string.
 # user_string = input("Enter any word to calculate number of vowel in it : ")
 # user_string = user_string.lower()
@@ -219,3 +219,17 @@ DDDD
 #     if(i == "a" or i == "e" or i == "i" or i == "o" or i == "u"):
 #         vowel_count += 1
 # print(f"There are {vowel_count} number of vowels in the given string")
+
+# 23. Create a number pyramid that dynamically adjusts its height based on user input.
+"""
+      1
+     222
+    33333
+   4444444
+  555555555
+ 66666666666
+7777777777777 
+"""
+rows = int(input("Enter height for pyramid : ")) #5
+for i in range(1, rows + 1):
+    print(" " * (rows - i) + f"{i}" * (i + (i - 1)))
